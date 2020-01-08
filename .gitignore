@@ -3,3 +3,6 @@ config.h
 st
 st.o
 x.o
+
+# coc temp file
+.ccls-cache
